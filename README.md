@@ -1,4 +1,4 @@
-# **DESÁFIO ESTRUTURA DE DADOS**
+# **DESAFIO ESTRUTURA DE DADOS**
 
 ## DESCRIÇÃO:
 " *Repositório de estudos feito para tornar mais facil a visualização do projeto, além de ajudar na questão de modifições futuras (Commits).*
