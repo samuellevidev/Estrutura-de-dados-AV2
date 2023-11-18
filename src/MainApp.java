@@ -16,29 +16,26 @@ public class MainApp {
     public static void main(String[] args) throws Exception {
         
         Registro reg = new Registro(0, null, 0, 0, 0); //Instância (Chamada) da classe Registro como um objeto (reg).
-        Scanner leia = new Scanner(System.in); //Instância (Chamada) da classe Scanner como um objeto (leia).
         ArrayList <Registro> lista_de_produtos = new ArrayList<>(); //Arraylis que irá armazenar os dados do arquivo "Produto.txt".
 
-
-
-        //System.out.print("Insira o caminho do arquivo 'Produto.txt': ");
-        reg.setCaminhoArquivo("C:/Users/samar/OneDrive - Universidade Católica de Pernambuco/PESSOAL/SAMUEL/JavaEstudos/Projeto_ED/Estrutura_De_Dados/Produto.txt"); //C:\Users\samar\OneDrive - Universidade Católica de Pernambuco\PESSOAL\SAMUEL\JavaEstudos\Projeto_ED\Estrutura_De_Dados\Produto.txt
-        leia.close();
+        reg.setCaminhoArquivo("Produto.txt"); //Caminho relativo
 
     try{
         File arquivo_produto = new File(reg.getCaminhoArquivo()); //Objeto criado para servir de referência do arquivo "Produto.txt".
         Scanner leitor = new Scanner(arquivo_produto); //Intância da classe scanner que irá "ler" p arquivo "Produto.txt".
 
+        int i = 1;
         //Loop criado para tratar os dados do arquivo "Produto.txt" e armazena-los dentro da ArrayList da classe Registro:
         while(leitor.hasNextLine()) {
             reg.setLinha(leitor.nextLine());
-
             //Codigo para a atribuição de valores para as variáveis através dos métodos getters e setters.
             reg.setCodigo(Integer.parseInt(reg.getLinha().substring(0, 2)));
-            reg.setCategoria(Integer.parseInt(reg.getLinha().substring(46, 47)));
-            reg.setDescricao(reg.getLinha().substring(3, 34));
+            reg.setDescricao(reg.getLinha().substring(3, 35));
             reg.setPrecoUnidade(Double.parseDouble(reg.getLinha().substring(36, 41)));
-            reg.setQuantidade(Integer.parseInt(reg.getLinha().substring(43, 45)));
+            reg.setQuantidade(Integer.parseInt(reg.getLinha().substring(42, 45)));
+            reg.setCategoria(Integer.parseInt(reg.getLinha().substring(46, 47)));
+            System.out.println(i);
+            i++;
 
             //Comando para atribuir todas as variáveis ao ArrayList:
             lista_de_produtos.add(new Registro(reg.getCodigo(), reg.getDescricao(), reg.getPrecoUnidade(), reg.getQuantidade(), reg.getCategoria()));
