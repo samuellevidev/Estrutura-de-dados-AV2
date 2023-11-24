@@ -24,18 +24,19 @@ public class MainApp {
         File arquivo_produto = new File(reg.getCaminhoArquivo()); //Objeto criado para servir de referência do arquivo "Produto.txt".
         Scanner leitor = new Scanner(arquivo_produto); //Intância da classe scanner que irá "ler" p arquivo "Produto.txt".
 
-        int i = 1;
+        //int i = 1; //contador debug
         //Loop criado para tratar os dados do arquivo "Produto.txt" e armazena-los dentro da ArrayList da classe Registro:
         while(leitor.hasNextLine()) {
             reg.setLinha(leitor.nextLine());
             //Codigo para a atribuição de valores para as variáveis através dos métodos getters e setters.
-            reg.setCodigo(Integer.parseInt(reg.getLinha().substring(0, 2)));
-            reg.setDescricao(reg.getLinha().substring(3, 35));
-            reg.setPrecoUnidade(Double.parseDouble(reg.getLinha().substring(36, 41)));
-            reg.setQuantidade(Integer.parseInt(reg.getLinha().substring(42, 45)));
-            reg.setCategoria(Integer.parseInt(reg.getLinha().substring(46, 47)));
-            System.out.println(i);
-            i++;
+            String[] colunas = reg.getLinha().split(";"); // Quebra a linha usando marcador ";" como referência
+            reg.setCodigo(Integer.parseInt(colunas[0]));
+            reg.setDescricao(colunas[1]);
+            reg.setPrecoUnidade(Double.parseDouble(colunas[2]));
+            reg.setQuantidade(Integer.parseInt(colunas[3]));
+            reg.setCategoria(Integer.parseInt(colunas[4]));
+            //System.out.println(i); // debug
+            //i++; // debug
 
             //Comando para atribuir todas as variáveis ao ArrayList:
             lista_de_produtos.add(new Registro(reg.getCodigo(), reg.getDescricao(), reg.getPrecoUnidade(), reg.getQuantidade(), reg.getCategoria()));
