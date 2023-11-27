@@ -1,0 +1,77 @@
+01;Chai                            ;01800;039;1
+02;Chang                           ;01900;017;1
+03;Aniseed Syrup                   ;01000;013;2
+04;Chef Anton's Cajun Seasoning    ;02200;053;3
+05;Chef Anton's Gumbo Mix          ;02135;000;4
+06;Grandma's Boysenberry Spread    ;02500;120;4
+07;Uncle Bob's Organic Dried Pears ;03000;015;6
+08;Northwoods Cranberry Sauce      ;04000;006;3
+09;Mishi Kobe Niku                 ;09700;029;2
+10;Ikura                           ;03100;031;9
+11;Queso Cabrales                  ;02100;022;8
+12;Queso Manchego La Pastora       ;03800;086;7
+13;Konbu                           ;00600;024;8
+14;Tofu                            ;02325;035;4
+15;Genen Shouyu                    ;01550;039;5
+16;Pavlova                         ;01745;029;6
+17;Alice Mutton                    ;03900;000;3
+18;Carnarvon Tigers                ;06250;042;8
+19;Teatime Chocolate Biscuits      ;00920;025;9
+20;Sir Rodney's Marmalade          ;08100;040;7
+21;Sir Rodney's Scones             ;01000;003;2
+22;Gustaf's Knáckebrád             ;02100;104;3
+23;Tunnbrád                        ;00900;061;4
+24;Guaraná Fantástica              ;00450;020;5
+25;NuNuCa Nuá-Nougat-Creme         ;01400;076;8
+26;Gumbár Gummibárchen             ;03123;015;7
+27;Schoggi Schokolade              ;04390;049;6
+28;Rássle Sauerkraut               ;04560;026;5
+29;Tháringer Rostbratwurst         ;12379;000;6
+30;Nord-Ost Matjeshering           ;02589;010;3
+31;Gorgonzola Telino               ;01250;000;9
+32;Mascarpone Fabioli              ;03200;009;1
+33;Geitost                         ;00250;112;2
+34;Sasquatch Ale                   ;01400;111;2
+35;Steeleye Stout                  ;01800;020;1
+36;Inlagd Sill                     ;01900;112;1
+37;Gravad lax                      ;02600;011;2
+38;Cáte de Blaye                   ;26350;017;3
+39;Chartreuse verte                ;01800;069;3
+40;Boston Crab Meat                ;01840;123;2
+41;Jack's New England Clam Chowder ;00965;085;2
+42;Singaporean Hokkien Fried Mee   ;01400;026;1
+43;Ipoh Coffee                     ;04600;017;1
+44;Gula Malacca                    ;01945;027;1
+45;Rágede sild                     ;00950;005;4
+46;Spegesild                       ;01200;095;4
+47;Zaanse koeken                   ;00950;036;4
+48;Chocolade                       ;01275;015;4
+49;Maxilaku                        ;02000;010;3
+50;Valkoinen suklaa                ;01625;065;3
+51;Manjimup Dried Apples           ;05300;020;2
+52;Filo Mix                        ;00700;038;2
+53;Perth Pasties                   ;03280;000;6
+54;Tourtiáre                       ;00745;021;7
+55;Pátá chinois                    ;02400;115;8
+56;Gnocchi di nonna Alice          ;03800;021;9
+57;Ravioli Angelo                  ;01950;036;3
+58;Escargots de Bourgogne          ;01325;062;2
+59;Raclette Courdavault            ;05500;079;4
+60;Camembert Pierrot               ;03400;019;2
+61;Sirop d'árable                  ;02850;113;9
+62;Tarte au sucre                  ;04930;017;5
+63;Vegie-spread                    ;04390;024;4
+64;Wimmers gute Semmelknádel       ;03325;022;3
+65;Louisiana Fiery Hot Pepper Sauce;02105;076;7
+66;Louisiana Hot Spiced Okra       ;01700;004;8
+67;Laughing Lumberjack Lager       ;01400;052;6
+68;Scottish Longbreads             ;01250;006;7
+69;Gudbrandsdalsost                ;03600;026;3
+70;Outback Lager                   ;01500;015;2
+71;Flátemysost                     ;02150;026;4
+72;Mozzarella di Giovanni          ;03480;014;5
+73;Rád Kaviar                      ;01500;101;6
+74;Longlife Tofu                   ;01000;004;2
+75;Rhánbráu Klosterbier            ;00775;125;4
+76;Lakkalikáári                    ;01800;057;2
+77;Original Frankfurter gráne Soáe ;01300;032;8
