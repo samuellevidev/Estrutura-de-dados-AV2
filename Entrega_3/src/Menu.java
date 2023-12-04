@@ -30,6 +30,7 @@ public class Menu {
                 case 1:
                     System.out.println("Iniciando Classe: ArrayList...");
                     for(int x = 5; x >= 0; x--){
+                        Thread.sleep(500);
                         System.out.println(x);
                     }
                     Arraylist.main(args); // Chamando a classe de Array List.
@@ -38,6 +39,7 @@ public class Menu {
                 case 2:
                     System.out.println("Iniciando Classe: Fila...");
                     for(int x = 5; x >= 0; x--){
+                        Thread.sleep(500);
                         System.out.println(x);
                     }
                     Fila.main(args); // Chamando a classe de Fila.
@@ -46,6 +48,7 @@ public class Menu {
                 case 3:
                     System.out.println("Iniciando Classe: Pilha...");
                     for(int x = 5; x >= 0; x--){
+                        Thread.sleep(500);
                         System.out.println(x);
                     }
                     Pilha.main(args); // Chamando a classe de Pilha.
@@ -54,6 +57,7 @@ public class Menu {
                 case 0:
                     System.out.println("Finalizando programa...");
                     for(int x = 5; x >= 0; x--){
+                        Thread.sleep(500);
                         System.out.println(x);
                     }
                     System.out.println("Sistema finalizado.");
