@@ -1,0 +1,91 @@
+ALFKI;Alfreds Futterkiste                 ;Alemanha     
+ANATR;Ana Trujillo Emparedados y helados  ;M�xico       
+ANTON;Antonio Moreno Taquer�a             ;M�xico       
+AROUT;Around the Horn                     ;Reino Unido  
+BERGS;Berglunds snabbk�p                  ;Su�cia       
+BLAUS;Blauer See Delikatessen             ;Alemanha     
+BLONP;Blondel p�re et fils                ;Fran�a       
+BOLID;B�lido Comidas preparadas           ;Espanha      
+BONAP;Bon app                             ;Fran�a       
+BOTTM;Bottom-Dollar Markets               ;Canad�      
+BSBEV;B's Beverages                       ;Reino Unido  
+CACTU;Cactus Comidas para llevar          ;Argentina    
+CENTC;Centro comercial Moctezuma          ;M�xico       
+CHOPS;Chop-suey Chinese                   ;Sui�a        
+COMMI;Com�rcio Mineiro                    ;Brasil       
+CONSH;Consolidated Holdings               ;Reino Unido  
+DRACD;Drachenblut Delikatessen            ;Alemanha     
+DUMON;Du monde entier                     ;Fran�a       
+EASTC;Eastern Connection                  ;Reino Unido  
+ERNSH;Ernst Handel                        ;�ustria      
+FAMIA;Familia Arquibaldo                  ;Brasil       
+FISSA;FISSA Fabrica Inter. Salchichas S.A.;Espanha      
+FOLIG;Folies gourmandes                   ;Fran�a       
+FOLKO;Folk och f� HB                      ;Su�cia       
+FRANK;Frankenversand                      ;Alemanha     
+FRANR;France restauration                 ;Fran�a       
+FRANS;Franchi S.p.A.                      ;It�lia       
+FURIB;Furia Bacalhau e Frutos do Mar      ;Portugal     
+GALED;Galer�a del gastr�nomo              ;Espanha      
+GODOS;Godos Cocina T�pica                 ;Espanha      
+GOURL;Gourmet Lanchonetes                 ;Brasil       
+GREAL;Great Lakes Food Market             ;EUA          
+GROSR;GROSELLA-Restaurante                ;Venezuela    
+HANAR;Hanari Carnes                       ;Brasil       
+HILAA;HILARI�N-Abastos                    ;Venezuela    
+HUNGC;Hungry Coyote Import Store          ;EUA          
+HUNGO;Hungry Owl All-Night Grocers        ;Irlanda      
+ISLAT;Island Trading                      ;Reino Unido  
+KOENE;K�niglich Essen                     ;Alemanha     
+LACOR;La corne d'abondance                ;Fran�a       
+LAMAI;La maison d'Asie                    ;Fran�a       
+LAUGB;Laughing Bacchus Wine Cellars       ;Canad�       
+LAZYK;Lazy K Kountry Store                ;EUA          
+LEHMS;Lehmanns Marktstand                 ;Alemanha     
+LETSS;Let's Stop N Shop                   ;EUA          
+LILAS;LILA-Supermercado                   ;Venezuela    
+LINOD;LINO-Delicateses                    ;Venezuela    
+LONEP;Lonesome Pine Restaurant            ;EUA          
+MAGAA;Magazzini Alimentari Riuniti        ;It�lia       
+MAISD;Maison Dewey                        ;B�lgica      
+MEREP;M�re Paillarde                      ;Canad�      
+MORGK;Morgenstern Gesundkost              ;Alemanha     
+NORTS;North/South                         ;Reino Unido  
+OCEAN;Oc�ano Atl�ntico Ltda.              ;Argentina    
+OLDWO;Old World Delicatessen              ;EUA          
+OTTIK;Ottilies K�seladen                  ;Alemanha     
+PARIS;Paris sp�cialit�s                   ;Fran�a       
+PERIC;Pericles Comidas cl�sicas           ;M�xico       
+PICCO;Piccolo und mehr                    ;�ustria      
+PRINI;Princesa Isabel Vinhos              ;Portugal     
+QUEDE;Que Del�cia                         ;Brasil       
+QUEEN;Queen Cozinha                       ;Brasil       
+QUICK;QUICK-Stop                          ;Alemanha     
+RANCH;Rancho grande                       ;Argentina    
+RATTC;Rattlesnake Canyon Grocery          ;EUA          
+REGGC;Reggiani Caseifici                  ;It�lia       
+RICAR;Ricardo Adocicados                  ;Brasil       
+RICSU;Richter Supermarkt                  ;Su��a        
+ROMEY;Romero y tomillo                    ;Espanha      
+SANTG;Sant� Gourmet                       ;Noruega      
+SAVEA;Save-a-lot Markets                  ;EUA          
+SEVES;Seven Seas Imports                  ;Reino Unido  
+SIMOB;Simons bistro                       ;Dinamarca    
+SPECD;Sp�cialit�s du monde                ;Fran�a       
+SPLIR;Split Rail Beer & Ale               ;EUA          
+SUPRD;Supr�mes d�lices                    ;B�lgica      
+THEBI;The Big Cheese                      ;EUA          
+THECR;The Cracker Box                     ;EUA          
+TOMSP;Toms Spezialit?ten                  ;Alemanha     
+TORTU;Tortuga Restaurante                 ;M�xico       
+TRADH;Tradi��o Hipermercados              ;Brasil       
+TRAIH;Trail's Head Gourmet Provisioners   ;EUA          
+VAFFE;Vaffeljernet                        ;Dinamarca    
+VICTE;Victuailles en stock                ;Fran�a       
+VINET;Vins et alcools Chevalier           ;Fran�a       
+WANDK;Die Wandernde Kuh                   ;Alemanha     
+WARTH;Wartian Herkku                      ;Finl�ndia    
+WELLI;Wellington Importadora              ;Brasil       
+WHITC;White Clover Markets                ;EUA          
+WILMK;Wilman Kala                         ;Finl�ndia    
+WOLZA;Wolski IZajazd                      ;Pol�nia      
